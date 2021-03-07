@@ -29,12 +29,12 @@ Ver2では、コアとなる通信モジュールとしてシエラワイヤレ�
 ### 表面
   * 右上の6穴(2.54mmピッチ)でマイコンと接続します。
 
-<img src="docs/3gim_v2_omote.png" width="300">
+<img src="docs/3gim_v2_omote.png" width="200">
 
 ### 裏面
   * マイクロSIMを利用します。
 
-<img src="docs/3gim_v2_ura.png" width="300">
+<img src="docs/3gim_v2_ura.png" width="200">
 
 ## 提供する機能
 
