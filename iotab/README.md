@@ -124,7 +124,7 @@ IoTABをArduino IDE(バージョン1.8以上)で開発するようにするに�
     http://tabrain.jp/products/config/package_tabrain_index.json
 ```
 
-![環境設定のダイアログ](docs/arduino_ide_1.8.5_env.png?300)
+![環境設定のダイアログ](docs/arduino_ide_1.8.5_env.png)
 
 　2. Arduino IDEのツール/ボードで「ボードマネージャ..」を選択します。リストの中にある「IoTAB ARM Board by TABrain」を選択します。
 
@@ -216,6 +216,6 @@ void wakeUp() {
     * [Github - iotab](https://github.com/openwireless/iotab.git)
 
 
-## 事例
+## 作例
 
-  * [[iotab_samples|IoTABを使った作例]]
+  * [IoTABを使った作例](docs/iotab_samples.md)
