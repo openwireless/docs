@@ -106,7 +106,7 @@ SGIM(V1)の内部ブロック図を下記に示します：
 
   * SGIMを便利に利用するためのライブラリ
     * 上記の利用手順により提供されるライブラリsgim, mma8452q, RTCZeroを利用すると、より簡単にSGIM(V1)を使用することができます。これらの使い方は、各ライブラリのサンプル等を参考にしてみてください。
-    * sgimライブラリのサンプルスケッチについては、[gimライブラリのサンプルスケッチ](sgim_v1_lib_examples.md) を参照ください。
+    * sgimライブラリのサンプルスケッチについては、[sgimライブラリのサンプルスケッチ](docs/sgim_v1_lib_examples.md) を参照ください。
 
   * Sigfox通信モジュールに搭載している **SFM10R3AT** の[情報](https://www.kccs-iot.jp/solution/product/module7/)
 
