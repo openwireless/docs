@@ -4,13 +4,16 @@
 
 株式会社タブレインが企画・製造・販売している小型通信モジュールについての技術情報を公開します。
 
-* 3GIM
+* [3GIM](3gim/README.md)
   * 3G通信を使ってインターネット通信を行うことができる小型通信モジュール
-* 4GIM
+
+* [4GIM](4gim/README.md)
   * LTE通信を使ってインターネット通信を行うことができる小型通信モジュール
-* SGIM
+
+* [SGIM](sgim/README.md)
   * Sgifox通信モジュールを搭載したArduino Zero互換小型マイコンボード
-* MGIM
+
+* [MGIM](mgim/README.md)
   * LTE-M1通信モジュールを搭載したArduino Zero互換小型マイコンボード
 
 ## 補足
