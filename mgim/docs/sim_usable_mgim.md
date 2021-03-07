@@ -4,4 +4,4 @@ MGIMで使用実績のある通信サービス・SIMカードの一覧を下記�
 
 | 提供会社 | 通信サービス名 | 概要 | 備考 |
 | --- | --- | --- | --- |
-| SORACOM | SORACOM Air for セルラー(特定地域向け IoT SIM plan-D/plan-KM1) | |  |
+| SORACOM | SORACOM Air for セルラー(特定地域向け plan-D/plan-KM1) | | https://soracom.jp/services/air/cellular/ |
