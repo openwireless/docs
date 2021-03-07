@@ -1,4 +1,4 @@
-# 小型通信モジュール、通信機能付き小型マイコン
+# Wiki - 小型通信モジュール/通信機能付き小型マイコン
 
 ## 概要
 
@@ -16,7 +16,10 @@
 * [MGIM](mgim/README.md)
   * LTE-M1通信モジュールを搭載したArduino Zero互換小型マイコンボード
 
+* [IoTAB](iotab/README.md)
+  * 3GIM/4GIMと組み合わせて利用できる、Arduino Zero互換小型マイコンボード  
+
 ## 補足
 
 3GIM/4GIM/SGIM/MGIM 等をArduino環境で利用するためのライブラリは、下記で公開しています。
-[Libraries for Arduino](https://github.com/openwireless/3gim)
+* [Libraries for Arduino](https://github.com/openwireless/3gim)
