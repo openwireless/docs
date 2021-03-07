@@ -18,7 +18,6 @@
 　様々なサイトで、マイクロSDカードのセットアップ方法が紹介されていますので、それらを参考にまずはマイクロSDカードに最新のRasbianをインストールしてください。分かりやすくセットアップ方法が紹介されているページをいくつかご紹介しておきます：
 
 　[Raspberry Piのセットアップ – ローカル環境編](https://tool-lab.com/make/raspberrypi-startup-7)
-　[ラズベリーパイ2のOSセットアップ](http://usicolog.nomaki.jp/engineering/raspberryPi/raspberryPi2.html)
 
 　以下では、最新バージョンのRasbianを使った例で説明します。
 
