@@ -9,12 +9,12 @@
 完成品の画像は下記のとおりです。
 ケースには、タカチ製の既製品(PS-85W)を使いました。
 
-![HLN](hln_3.jpg)
+![HLN](hln_3.png)
 
 ケースの中身は下記のとおりです。
 ケースの蓋にGPSアンテナを貼り付け、ケース本体の底に3Gアンテナを貼り付けています。PS-85にぴったりのサイズでした。電池は小型のリチウムポリマ電池(3.7V/170mAh)を使いました。また外付けのマイコンとしてAtmelのATtiny85を使って、Arduinoを使ってプログラムを作成しました。
 
-![HLN2](hln_2.jpg)
+![HLN2](hln_2.png)
 
 マイコンATtiny85は、タクトスイッチが押されたときにスリープ状態から起き上がり、現在位置をAGPS機能を使って取得して、位置の取得に成功したらあらかじめ設定されている電話番号宛に緯度・経度をSMSで通知します。
 
@@ -22,14 +22,7 @@ SMSは、クラウドサービス等を準備することなしにSIMカード�
 
 回路図は、とてもシンプルです。
 
-![HLN回路図]hln_sch.png)
+![HLN回路図](hln_sch.png)
 
 
   * スケッチは、[ここ](handy_locaion_notifier.zip) からダウンロードしてください。
-
-
-  * 部品の選定やATtinyのスケッチの書き方については、下記のサイトを参考にさせていただきました。
-
-　 [タカチのケース(PS)](http://www.takachi-el.co.jp/data/pdf/01-47.pdf)
-
-　 [IDEでATtiny他の開発](http://make.kosakalab.com/make/electronic-work/arduino-ide-arduinoisp/|Arduin)
