@@ -181,7 +181,7 @@ Ver2では、コアとなる通信モジュールとしてシエラワイヤレ�
 
 
   * 3GIM(V2.2) 回路図
-    * [3gim schematic](docs/4gim_v1_sch.pdf)
+    * [3gim schematic](docs/3gim_v22_sch.pdf)
 
   * 3GIM(V1) 用 Arduinoライブラリ
     * [3GIM library for Arduino](https://github.com/openwireless/3gim)
