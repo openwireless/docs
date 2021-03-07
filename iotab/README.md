@@ -1,6 +1,6 @@
 # IoTAB (Ver1)について
 
-## 概要 ### =
+## 概要
 
 **IoTAB**(IoT Arduino Board)は、3GIM/4GIMと組み合わせて利用することができる**Arduino Zero互換**の小型マイコンボードです。
 MCU(32-bit ARM Cortex-M0+)に加えて、3軸加速度センサ、温度センサ、リチウムポリマ電池の充電回路を搭載しています。**低消費電力**を考慮した設計であるため、**電池で駆動するようなIoTデバイス**を簡単に開発することができます。
@@ -45,7 +45,7 @@ IoTAB(V1)は、下記の機能を提供します。
 搭載している加速度センサや温度センサ等は、別途公開しているArduino用ライブラリ（iotab, 3gim2, mma8451q, stts751）を使えば簡単に利用することができます。
 
 
-## IoTABのスペック ### =
+## IoTABのスペック
 
 | 項目 | 仕様 | 補足 |
 | --- | --- | --- |
@@ -65,7 +65,7 @@ IoTAB(V1)は、下記の機能を提供します。
 
 IoTAB(V1)の内部ブロック図を下記に示す：
 
-![IoTAB ブロック図](docs/iotab_v1_block.png9)
+![IoTAB ブロック図](docs/iotab_v1_block.png)
 
 ## ピンアサイン
 
@@ -124,7 +124,7 @@ IoTABをArduino IDE(バージョン1.8以上)で開発するようにするに�
     http://tabrain.jp/products/config/package_tabrain_index.json
 ```
 
-![環境設定のダイアログ](docs/arduino_ide_1.8.5_env.png)
+![環境設定のダイアログ](docs/arduino_ide_1.8.5_env.png?300)
 
 　2. Arduino IDEのツール/ボードで「ボードマネージャ..」を選択します。リストの中にある「IoTAB ARM Board by TABrain」を選択します。
 
