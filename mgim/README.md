@@ -23,7 +23,7 @@ MGIM(V4)の画像を掲載します。
 ### 全体
   * 左からMGIM(V4)本体、小型LTEフレキアンテナです。
 
-![MGIM(V4)](docs/mgim_package.png)
+<img src="docs/mgim_package.png" width="500">
 
 ### 基板の表面・裏面
   * 右上の6穴(2.54mmピッチ)でマイコンと接続します。
@@ -76,7 +76,7 @@ MGIM(V4)は、4GM(V1)と互換性のある下記の機能を提供します
 ## ブロック構成図
 MGIM(V4)の内部ブロック図を下記に示す：
 
-![MGIM(V4) ブロック図](docs/mgim_v4_block_diagram.png)
+<img src="docs/mgim_v4_block_diagram.png" width="700">
 
 ## 機能一覧
 
@@ -132,7 +132,7 @@ MGIM(V4)の内部ブロック図を下記に示す：
 ## ダウンロード
 
   * MGIM(V4) 回路図
-    * [mgim schematic](docs/mgim_v4_sch.pdf)
+    * [回路図](docs/mgim_v4_sch.pdf)
 
   * MGIM(V1) 用 Arduinoライブラリ
     * [mgim library for Arduino](https://github.com/openwireless/3gim)
