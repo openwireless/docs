@@ -26,17 +26,17 @@ MGIM(V4.1)の画像を掲載します。
 ### 全体
   * 左からMGIM(V4)本体、小型LTEフレキアンテナです。
 
-<img src="docs/mgim_package.png" width="300">
+<img src="docs/mgim_package.jpg" width="300">
 
 ### 基板の表面・裏面
   * LTEアンテナ(必須)とGPSアンテナ(オプション)の2つのアンテナを接続することができます。
 
-<img src="docs/mgim_omote.png" width="300">
+<img src="docs/mgim_omote.jpg" width="300">
 
 ### 基板の表面・裏面
   * MicroSIMのコネクタがあります。
 
-<img src="docs/mgim_ura.png" width="300">
+<img src="docs/mgim_ura.jpg" width="300">
 
 ## 提供する機能
 
