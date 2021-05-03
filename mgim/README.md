@@ -159,7 +159,7 @@ MGIM(V4)の内部ブロック図を下記に示す：
 
 ## 電源について
 
-  * MGIM(V4.1)を動作させるためには、最大600mA程度の電流を供給できる3.5～4.2Vの安定した電源が必要です。
+  * MGIM(V4.1)を動作させるためには、最大700mAの電流を供給できる3.5～4.2Vの安定した電源が必要です。
 
 ## ダウンロード
 
@@ -168,6 +168,7 @@ MGIM(V4)の内部ブロック図を下記に示す：
 
   * MGIM(V1) 用 Arduinoライブラリ
     * [mgim library for Arduino](https://github.com/openwireless/3gim)
+    * mgim,hl7800,stts751,lis2dwを利用します
 
 ## 購入方法
 
