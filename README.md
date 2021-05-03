@@ -17,7 +17,7 @@
   * LTE-M1通信モジュールを搭載したArduino Zero互換小型マイコンボード
 
 * [IoTAB](iotab/README.md)
-  * 3GIM/4GIMと組み合わせて利用できる、Arduino Zero互換小型マイコンボード  
+  * 3GIM/4GIMと組み合わせて利用できるArduino Zero互換小型マイコンボード  
 
 ## 補足
 
