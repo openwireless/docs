@@ -107,7 +107,7 @@ MGIM(V4)は、3つのスルーホール(ピンヘッダ用のCN1,CN2,CN3)を持�
 ## ブロック構成図
 MGIM(V4)の内部ブロック図を下記に示す：
 
-<img src="docs/mgim_v4_block_diagram.png" width="700">
+<img src="docs/mgim_v4.1_block_diagram.png" width="700">
 
 ## 機能一覧
 
