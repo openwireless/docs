@@ -190,6 +190,7 @@ MGIM(V4.1)の内部ブロック図を下記に示す：
   * MGIM(V4.1) 用 Arduinoライブラリ
     * [Arduino library for MGIM](https://github.com/openwireless/3gim)
     * 上記ライブラリのうち、mgim,hl7800,stts751,lis2dwを利用してください
+    * [hl7800ライブラリを利用するにあたっての補足](docs/hl7800_notes.md)
 
 ## 購入方法
 
