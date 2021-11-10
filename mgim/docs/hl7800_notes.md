@@ -6,7 +6,7 @@ HTTP/GET等の機能を安定して利用するためには、HL7800とATSAMD21�
 + Windowsの場合
 
 (1) 下記のソースファイルをテキストエディタで開きます。
-C:\Users\dai\AppData\Local\Arduino15\packages\arduino\hardware\samd\1.8.11\cores\arduino\api\RingBuffer.h
+C:\Users\USER_NAME\AppData\Local\Arduino15\packages\arduino\hardware\samd\1.8.11\cores\arduino\api\RingBuffer.h
 
 (2) シンボルSERIAL_BUFFER_SIZE の定義値を 256 に変更する
 
@@ -15,4 +15,4 @@ C:\Users\dai\AppData\Local\Arduino15\packages\arduino\hardware\samd\1.8.11\cores
 [変更後]　#define SERIAL_BUFFER_SIZE 256
 
 ---
-2021.5.20 更新
+2021.11.10 更新
